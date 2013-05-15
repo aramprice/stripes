@@ -1,0 +1,4 @@
+# Ignore RubyMine files.
+/.idea
+
+/public/ex_*
